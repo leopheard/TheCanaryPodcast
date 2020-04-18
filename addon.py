@@ -4,12 +4,8 @@ from resources.lib import mainaddon
 plugin = Plugin()
 
 URL1 = "http://feeds.feedburner.com/CanaryPod"
-
 @plugin.route('/')
 def main_menu():
-    """
-    main menu 
-    """
     items = [
         {
             'label': plugin.get_string(30001), 
@@ -23,34 +19,19 @@ def main_menu():
 
     return items
 
-
 @plugin.route('/all_episodes1/')
 def all_episodes1():
-    """
-    contains playable podcasts listed as just-in
-    """
     soup = mainaddon.get_soup(URL1)
-    
     playable_podcast1 = mainaddon.get_playable_podcast1(soup)
-    
     items = mainaddon.compile_playable_podcast1(playable_podcast1)
-
     return items
-
 
 @plugin.route('/all_episodes/')
 def all_episodes():
-    """
-    contains playable podcasts listed as just-in
-    """
     soup = mainaddon.get_soup(URL1)
-    
     playable_podcast = mainaddon.get_playable_podcast(soup)
-    
     items = mainaddon.compile_playable_podcast(playable_podcast)
-
     return items
-
 
 if __name__ == '__main__':
     plugin.run()

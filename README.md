@@ -1,6 +1,6 @@
 <a href="www.thecanary.co">The Canary</a> Podcast<br>
 
-<a href="www.kodi.tv">KODI</a> / XBMC / Firestick audio addon for <a href="https://www.thecanary.co/topics/podcast/">Canary Podcast</a>.<br>
+<a href="www.kodi.tv">KODI</a> / XBMC / Firestick audio addon for <a href="https://www.thecanary.co/topics/podcast/">The Canary Podcast</a>.<br>
 
 Podcast articles from <a href="www.thecanary.co">The Canary</a>. Fresh and fearless; get excellent independent journalism from The Canary, delivered straight to your inbox every morning. Podcast hosted by <a href="https://twitter.com/MrTopple">Steve Topple</a>.
 
