@@ -2,7 +2,7 @@
 
 <a href="www.kodi.tv">KODI</a> / XBMC / Firestick audio addon for <a href="https://www.thecanary.co/topics/podcast/">Canary Podcast</a>.<br>
 
-Podcast articles from <a href="www.thecanary.co">The Canary</a>. Fresh and fearless; get excellent independent journalism from The Canary, delivered straight to your inbox every morning.<br>
+Podcast articles from <a href="www.thecanary.co">The Canary</a>. Fresh and fearless; get excellent independent journalism from The Canary, delivered straight to your inbox every morning. Podcast hosted by <a href="https://twitter.com/MrTopple">Steve Topple</a>.
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
